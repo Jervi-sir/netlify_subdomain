@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/*"
-to = "http://150.136.217.184:8000/*"
+to = "http://150.136.217.184:8000/"
 status = 200
 force = true
